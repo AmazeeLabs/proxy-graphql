@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/proxy-graphql",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -14,5 +14,5 @@
   "scripts": {
     "version": "sync-composer-version"
   },
-  "gitHead": "4bc25224bde1855a3a6cd9484e0465da1e9e68d8"
+  "gitHead": "c885ac1d59e2d5f4c2a9f4f6b2b5157e747bc34e"
 }
